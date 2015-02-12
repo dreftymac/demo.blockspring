@@ -20,6 +20,7 @@ Currently, blockspring web-gui allows function input arguments in the form of:
 
 More detail here:
    * https://api.blockspring.com/docs/inputs
+   * http://stackoverflow.com/questions/998832/
 
 ### Blockspring function code and invocations as signed commit objects
 
