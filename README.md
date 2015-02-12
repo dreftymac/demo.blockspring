@@ -11,7 +11,9 @@
 
 ### Blockspring function input as arbitrary JSON struct (via web-gui)
 
-It would be great if the blockspring web-gui could also allow input arguments in the form of arbitrarily-sized JSON structs
+It would be great if the blockspring web-gui could also allow input arguments in the form of arbitrarily-sized JSON structs.
+
+This would allow non-technical team members to submit arbitrary blockspring function arguments of arbitrary complexity, without having to know they are using JSON.
 
 Currently, blockspring web-gui allows function input arguments in the form of:
    * scalar name-value pairs
