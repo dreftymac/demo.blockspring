@@ -30,11 +30,15 @@ More detail here:
 
 It would be great if blockspring web-gui allowed signed commits for function invocations.
 
-This would enable the ability to do authenticated audit trails, just like with a git repository.
+In plain english, I should be able to trust both the function argument input and function code at the time the function was run, just as much as I can trust the content of an individual commit to a git repository.
+
+This would enable the ability to do authenticated audit trails, just like with git.
 
 Any time a function is run, the arguments passed into the function and the output resulting from those inputs could both be signed by a committer and kept in an auditable trail that is capable of accepting branches and tags, just like git.
 
 This would enable teams to transmit non-static content to each other with a degree of confidence in the accuracy, validity and authenticity of the content.
+
+This is a transformational and powerful concept, because it allows a high degree of trust and reliability for the tool, and the ability to trace any unexpected results and track them to the relevant team member(s).
 
 ### Blockspring piping (chained functions)
 
