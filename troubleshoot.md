@@ -8,6 +8,6 @@ If you get an access denied response from blockspring, try the following cURL-ba
 
 * https://api.blockspring.com/docs/python-install-cli
 * install from msdos prompt (wonky on cygwin)
-* dependency on native JSON requires build tools
+* dependency on native JSON gem requires build tools on windows
     * http://stackoverflow.com/questions/8100891/the-json-native-gem-requires-installed-build-tools
 
