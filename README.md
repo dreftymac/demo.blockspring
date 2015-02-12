@@ -20,3 +20,12 @@ It would be great if the blockspring web-gui could also allow input arguments in
 
 More detail here:
    * https://api.blockspring.com/docs/inputs
+
+### Blockspring function code and invocations as signed commit objects
+
+It would be great if blockspring web-gui allowed signed commits for function invocations.
+
+This would enable the ability to do authenticated audit trails, just like with a git repository.
+
+This would enable teams to transmit non-static content to each other with a degree of confidence in the accuracy, validity and authenticity of the function output.
+
