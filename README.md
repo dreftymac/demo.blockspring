@@ -1,6 +1,6 @@
 # blockspring.lab
 
-blockspring public lab
+> blockspring public lab
 
 ## BLOCKSPRING-RELATED ideas, thoughts and feedback
 
