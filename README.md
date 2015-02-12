@@ -15,6 +15,10 @@ It would be great if the blockspring web-gui could also allow input arguments in
 
 Currently, blockspring web-gui allows function input arguments in the form of:
    * scalar name-value pairs
+      * string
+      * number
+      * password
+      * ???
    * file-input
    * spreadsheet-like-grid
 
