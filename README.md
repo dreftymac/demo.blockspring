@@ -9,7 +9,7 @@
  * Blockspring is poised to become a user-friendly variant of the AWS Lambda service
  * http://aws.amazon.com/lambda/
 
-### Blockspring function input as arbitrary JSON struct (via web-gui, not just CLI)
+### Blockspring function input as arbitrary JSON struct (via web-gui)
 
 It would be great if the blockspring web-gui could also allow input arguments in the form of arbitrarily-sized JSON structs
 
