@@ -36,7 +36,10 @@ This would enable teams to transmit non-static content to each other with a degr
 With blockspring output as arbitrary JSON structs, and blockspring input as arbitrary JSON structs, it is possible to create blockspring functions whose intput and output can be "piped" or chained together.
 
 ```
-Expect the output of every program to become the input to another, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
+Expect the output of every program to become the input 
+to another, as yet unknown, program. Don't clutter output 
+with extraneous information. Avoid stringently columnar 
+or binary input formats. Don't insist on interactive input.
 
 ~ Doug McIlroy
 ```
