@@ -2,7 +2,7 @@
 
 blockspring public lab
 
-## BLOCKSPRING-RELATED items and feedback
+## BLOCKSPRING-RELATED ideas, thoughts and feedback
 
 ### Comparison to AWS Lambda
 
