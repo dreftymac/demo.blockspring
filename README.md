@@ -27,5 +27,7 @@ It would be great if blockspring web-gui allowed signed commits for function inv
 
 This would enable the ability to do authenticated audit trails, just like with a git repository.
 
-This would enable teams to transmit non-static content to each other with a degree of confidence in the accuracy, validity and authenticity of the function output.
+Any time a function is run, the arguments passed into the function and the output resulting from those inputs could both be signed by a committer and kept in an auditable trail that is capable of accepting branches and tags, just like git.
+
+This would enable teams to transmit non-static content to each other with a degree of confidence in the accuracy, validity and authenticity of the content.
 
