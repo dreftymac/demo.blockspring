@@ -31,7 +31,7 @@ Any time a function is run, the arguments passed into the function and the outpu
 
 This would enable teams to transmit non-static content to each other with a degree of confidence in the accuracy, validity and authenticity of the content.
 
-### Blockspring piping 
+### Blockspring piping (chained functions)
 
 With blockspring output as arbitrary JSON structs, and blockspring input as arbitrary JSON structs, it is possible to create blockspring functions whose intput and output can be "piped" or chained together.
 
