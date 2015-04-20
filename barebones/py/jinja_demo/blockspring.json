@@ -1,0 +1,23 @@
+{
+  "title": "jinja_demo",
+  "description": "",
+  "parameters": [
+    {
+      "type": "text",
+      "label": "First Name",
+      "name": "first_name",
+      "help_text": "Enter your first name.",
+      "default": "Paul"
+    },
+    {
+      "type": "number",
+      "label": "Age",
+      "name": "age",
+      "help_text": "Enter your age.",
+      "default": 26
+    }
+  ],
+  "is_public": true,
+  "is_open_source": true,
+  "language": "py"
+}
