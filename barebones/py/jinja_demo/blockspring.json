@@ -1,6 +1,8 @@
 {
+  "id": "f247eadc5b48f92975c62e1a9252d2f3",
+  "user": "dreftymac",
   "title": "jinja_demo",
-  "description": "",
+  "description": "Barebones blockspring demo featuring jinja.",
   "parameters": [
     {
       "type": "text",
@@ -19,5 +21,7 @@
   ],
   "is_public": true,
   "is_open_source": true,
-  "language": "py"
+  "language": "py",
+  "updated_at": 1429566860,
+  "created_at": 1429565786
 }
