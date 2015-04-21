@@ -9,14 +9,14 @@
       "label": "First Name",
       "name": "first_name",
       "help_text": "Enter your first name.",
-      "default": "Paul"
+      "default": "Valued Customer"
     },
     {
       "type": "number",
       "label": "Age",
       "name": "age",
       "help_text": "Enter your age.",
-      "default": 26
+      "default": 33
     }
   ],
   "is_public": true,
